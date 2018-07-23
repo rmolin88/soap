@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewStudentInfo>
+	<StudID>1111</StudID>
+	<Name>Bob Smith</Name>
+	<SSN> 111-222-3333</SSN>
+	<EmailAddress> bsmith@psu.edu</EmailAddress>
+	<HomePhone>215-222-2356</HomePhone>
+	<HomeAddress>123 Tulip Road, Ambler, PA 19002</HomeAddress>
+	<LocalAddress> 321 College Ave., University Park, PA 16802</LocalAddress>
+	<EmergencyContact>John Smith</EmergencyContact>
+	<ProgramID>206</ProgramID>
+	<PaymentID>1111-206</PaymentID>
+	<AcademicStatus>1</AcademicStatus>
+</NewStudentInfo>
